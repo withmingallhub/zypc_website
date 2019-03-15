@@ -5,9 +5,10 @@
 
 <script>
 export default {
-  data () {
+  data() {
     return {
-      title: 'Home'
+      title: 'Home',
+      msg: '123'
     }
   }
 }
