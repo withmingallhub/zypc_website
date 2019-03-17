@@ -3,6 +3,7 @@
   <div>
     <div>hello,Vue-CLi</div>
     <div>{{title}}</div>
+    <p>aaaa</p>
   </div>
 </template>
 
